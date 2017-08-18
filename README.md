@@ -1,5 +1,5 @@
 
-#ClearMetal Take home project
+# ClearMetal Take home project
 
 ## Intro
 - There were a lot of questions needed to be asked, but in service of time, I made some assumptions.
@@ -28,7 +28,6 @@ Assumption: No, but again the code is prepared for it with some change. Right no
 To try the example application, type the following in the terminal:
 
 ```
-cd ex50
 python port.py
 ```
 
@@ -40,3 +39,8 @@ The choices are:
 
 * Recurring (and no dependencies)
     task_A_1.1.py
+
+## My Class Diagram
+
+
+<img src="ports_classes.jpg"/>
